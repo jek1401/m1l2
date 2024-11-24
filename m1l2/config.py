@@ -1,4 +1,4 @@
-token = "7310526468:AAGYtjWf3UHGZcfQnv1Lk6bOc2nuNAb9PcI"
+token = "YOUR TOKEN"
 
 facts = [
     "Океаны содержат 97% всей воды на планете Земля.",
